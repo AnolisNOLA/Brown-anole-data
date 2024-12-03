@@ -1,4 +1,4 @@
-# Brown-anole-PNAS
+# Brown-anole-data
 Extreme lead tolerance in an urban lizard
 
 Description:  
